@@ -1,7 +1,7 @@
 package main
 
 import (
-	gim "github.com/webnetworkbrasil/go-image-merge"
+	gim "github.com/webnetworkbrasil/go-image-merge-resize"
 	"image/color"
 	"image/jpeg"
 	"log"
